@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rankle", "GameFinal\GameFinal\Rankle.csproj", "{7ACF20D7-98B6-4A54-98A9-AFFEF4823004}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameFinalContent", "GameFinal\GameFinalContent\GameFinalContent.contentproj", "{0E6DE7C7-2F8D-4F4F-8A20-17531ED7CB90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farseer Physics 3.2 XNA", "..\GameSimNet\Farseer Physics Engine 3.2 XNA\Farseer Physics 3.2 XNA.csproj", "{0A850700-1ABB-4288-A391-6726B90EBEB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ACF20D7-98B6-4A54-98A9-AFFEF4823004}.Debug|x86.ActiveCfg = Debug|x86
+		{7ACF20D7-98B6-4A54-98A9-AFFEF4823004}.Debug|x86.Build.0 = Debug|x86
+		{7ACF20D7-98B6-4A54-98A9-AFFEF4823004}.Release|x86.ActiveCfg = Release|x86
+		{7ACF20D7-98B6-4A54-98A9-AFFEF4823004}.Release|x86.Build.0 = Release|x86
+		{0E6DE7C7-2F8D-4F4F-8A20-17531ED7CB90}.Debug|x86.ActiveCfg = Debug|x86
+		{0E6DE7C7-2F8D-4F4F-8A20-17531ED7CB90}.Release|x86.ActiveCfg = Release|x86
+		{0A850700-1ABB-4288-A391-6726B90EBEB9}.Debug|x86.ActiveCfg = Debug|x86
+		{0A850700-1ABB-4288-A391-6726B90EBEB9}.Debug|x86.Build.0 = Debug|x86
+		{0A850700-1ABB-4288-A391-6726B90EBEB9}.Release|x86.ActiveCfg = Release|x86
+		{0A850700-1ABB-4288-A391-6726B90EBEB9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

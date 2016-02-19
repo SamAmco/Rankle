@@ -1,0 +1,982 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>GameInterface\EmptyButton.png</Source>
+      <Name>GameInterface\EmptyButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\GameInterface\EmptyButton.xnb</Output>
+      <Time>2012-10-22T22:54:38.6398151+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameInterface\Weapons\NoWeapon.png</Source>
+      <Name>GameInterface\Weapons\NoWeapon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\GameInterface\Weapons\NoWeapon.xnb</Output>
+      <Time>2012-04-03T14:38:56.5760728+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameInterface\Weapons\Rifle.png</Source>
+      <Name>GameInterface\Weapons\Rifle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\GameInterface\Weapons\Rifle.xnb</Output>
+      <Time>2012-10-19T19:05:09.9322723+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Back.png</Source>
+      <Name>Tiles\Back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Tiles\Back.xnb</Output>
+      <Time>2012-06-26T18:14:01.4178609+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\CornerBL.png</Source>
+      <Name>Tiles\CornerBL</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Tiles\CornerBL.xnb</Output>
+      <Time>2012-06-03T19:51:23.2516839+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\CornerBR.png</Source>
+      <Name>Tiles\CornerBR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Tiles\CornerBR.xnb</Output>
+      <Time>2012-06-03T19:51:29.7160536+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\CornerTL.png</Source>
+      <Name>Tiles\CornerTL</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Tiles\CornerTL.xnb</Output>
+      <Time>2012-06-03T19:51:33.4772687+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\CornerTR.png</Source>
+      <Name>Tiles\CornerTR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Tiles\CornerTR.xnb</Output>
+      <Time>2012-06-03T19:49:05.0577796+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\EdgeBottom.png</Source>
+      <Name>Tiles\EdgeBottom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Tiles\EdgeBottom.xnb</Output>
+      <Time>2012-06-05T19:46:11.3108048+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\EdgeLeft.png</Source>
+      <Name>Tiles\EdgeLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Tiles\EdgeLeft.xnb</Output>
+      <Time>2012-06-05T19:48:10.1336011+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\EdgeRight.png</Source>
+      <Name>Tiles\EdgeRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Tiles\EdgeRight.xnb</Output>
+      <Time>2012-06-05T19:48:21.5302529+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\EdgeTop.png</Source>
+      <Name>Tiles\EdgeTop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Tiles\EdgeTop.xnb</Output>
+      <Time>2012-06-05T19:47:31.5153922+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Bullet.png</Source>
+      <Name>Bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Bullet.xnb</Output>
+      <Time>2012-06-26T01:00:58.1467356+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tanks\Baby.png</Source>
+      <Name>Tanks\Baby</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Tanks\Baby.xnb</Output>
+      <Time>2012-05-15T21:12:02.2926078+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tanks\Camo.png</Source>
+      <Name>Tanks\Camo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Tanks\Camo.xnb</Output>
+      <Time>2012-05-15T21:12:02.296608+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tanks\Carbon.png</Source>
+      <Name>Tanks\Carbon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Tanks\Carbon.xnb</Output>
+      <Time>2012-05-15T21:12:02.3116089+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tanks\Dragon.png</Source>
+      <Name>Tanks\Dragon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Tanks\Dragon.xnb</Output>
+      <Time>2012-05-15T21:12:02.3146091+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tanks\Funky.png</Source>
+      <Name>Tanks\Funky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Tanks\Funky.xnb</Output>
+      <Time>2012-05-15T21:12:02.3176092+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tanks\Hunk.png</Source>
+      <Name>Tanks\Hunk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Tanks\Hunk.xnb</Output>
+      <Time>2012-05-15T21:12:02.3206094+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tanks\Ignite.png</Source>
+      <Name>Tanks\Ignite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Tanks\Ignite.xnb</Output>
+      <Time>2012-05-15T21:12:02.3246096+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tanks\Origin.png</Source>
+      <Name>Tanks\Origin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Tanks\Origin.xnb</Output>
+      <Time>2012-05-15T21:12:02.3276098+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tanks\Polka.png</Source>
+      <Name>Tanks\Polka</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Tanks\Polka.xnb</Output>
+      <Time>2012-05-15T21:12:02.33061+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tanks\Razor.png</Source>
+      <Name>Tanks\Razor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Tanks\Razor.xnb</Output>
+      <Time>2012-05-15T21:12:02.3336102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tanks\Slash.png</Source>
+      <Name>Tanks\Slash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Tanks\Slash.xnb</Output>
+      <Time>2012-05-15T21:12:02.3366103+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tanks\Tron.png</Source>
+      <Name>Tanks\Tron</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Tanks\Tron.xnb</Output>
+      <Time>2012-05-15T21:12:02.3396105+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Block.png</Source>
+      <Name>Tiles\Block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Tiles\Block.xnb</Output>
+      <Time>2012-06-03T19:21:17.7044125+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Exhaust.png</Source>
+      <Name>Exhaust</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Exhaust.xnb</Output>
+      <Time>2012-06-09T20:58:11.8163243+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameInterface\Style2\EmptyBar.png</Source>
+      <Name>GameInterface\Style2\EmptyBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\GameInterface\Style2\EmptyBar.xnb</Output>
+      <Time>2012-06-27T22:19:45.6504686+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameInterface\Style2\EnergyCentre.png</Source>
+      <Name>GameInterface\Style2\EnergyCentre</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\GameInterface\Style2\EnergyCentre.xnb</Output>
+      <Time>2012-06-27T22:20:28.5879245+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameInterface\Style2\EnergyEnd.png</Source>
+      <Name>GameInterface\Style2\EnergyEnd</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\GameInterface\Style2\EnergyEnd.xnb</Output>
+      <Time>2012-06-27T22:21:07.1841321+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameInterface\Style2\HealthCentre.png</Source>
+      <Name>GameInterface\Style2\HealthCentre</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\GameInterface\Style2\HealthCentre.xnb</Output>
+      <Time>2012-06-27T22:16:10.6151693+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameInterface\Style2\HealthEnd.png</Source>
+      <Name>GameInterface\Style2\HealthEnd</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\GameInterface\Style2\HealthEnd.xnb</Output>
+      <Time>2012-06-27T22:21:35.1537319+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosions\Explosion1.png</Source>
+      <Name>Explosions\Explosion1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Explosions\Explosion1.xnb</Output>
+      <Time>2012-06-28T13:52:09.1600532+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosions\Explosion2.png</Source>
+      <Name>Explosions\Explosion2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Explosions\Explosion2.xnb</Output>
+      <Time>2012-09-06T15:39:28.5162178+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Mine.png</Source>
+      <Name>Mine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Mine.xnb</Output>
+      <Time>2012-09-06T18:24:46.6635034+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosions\Explosion3.png</Source>
+      <Name>Explosions\Explosion3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Explosions\Explosion3.xnb</Output>
+      <Time>2012-09-07T22:30:43.344646+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Missile.png</Source>
+      <Name>Missile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Missile.xnb</Output>
+      <Time>2012-09-07T23:32:23.8683039+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosions\Explosion4.png</Source>
+      <Name>Explosions\Explosion4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Explosions\Explosion4.xnb</Output>
+      <Time>2012-09-08T21:05:05.6963547+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameInterface\Style2\Sight.png</Source>
+      <Name>GameInterface\Style2\Sight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\GameInterface\Style2\Sight.xnb</Output>
+      <Time>2012-09-08T21:58:11.8295911+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Orb.png</Source>
+      <Name>Orb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Orb.xnb</Output>
+      <Time>2012-09-09T17:25:30.3600843+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Font.xnb</Output>
+      <Time>2013-01-27T18:48:19.0580922+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameInterface\Weapons\Invisibility.png</Source>
+      <Name>GameInterface\Weapons\Invisibility</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\GameInterface\Weapons\Invisibility.xnb</Output>
+      <Time>2012-10-19T21:32:11.4686431+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameInterface\Weapons\Mines.png</Source>
+      <Name>GameInterface\Weapons\Mines</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\GameInterface\Weapons\Mines.xnb</Output>
+      <Time>2012-10-19T22:05:24.2466235+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameInterface\Weapons\Missiles.png</Source>
+      <Name>GameInterface\Weapons\Missiles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\GameInterface\Weapons\Missiles.xnb</Output>
+      <Time>2012-10-19T22:30:22.6903295+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameInterface\Buffs\FreeInvisibility.png</Source>
+      <Name>GameInterface\Buffs\FreeInvisibility</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\GameInterface\Buffs\FreeInvisibility.xnb</Output>
+      <Time>2012-10-21T17:50:50.1034405+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameInterface\Buffs\FreeMines.png</Source>
+      <Name>GameInterface\Buffs\FreeMines</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\GameInterface\Buffs\FreeMines.xnb</Output>
+      <Time>2012-10-21T17:50:50.1224416+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameInterface\Buffs\FreeMissiles.png</Source>
+      <Name>GameInterface\Buffs\FreeMissiles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\GameInterface\Buffs\FreeMissiles.xnb</Output>
+      <Time>2012-10-21T17:50:50.1274419+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameInterface\Buffs\FreeRifle.png</Source>
+      <Name>GameInterface\Buffs\FreeRifle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\GameInterface\Buffs\FreeRifle.xnb</Output>
+      <Time>2012-10-21T17:50:50.1314421+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameInterface\Buffs\SuperGun.png</Source>
+      <Name>GameInterface\Buffs\SuperGun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\GameInterface\Buffs\SuperGun.xnb</Output>
+      <Time>2012-10-21T17:50:50.1364424+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameInterface\Buffs\SuperTough.png</Source>
+      <Name>GameInterface\Buffs\SuperTough</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\GameInterface\Buffs\SuperTough.xnb</Output>
+      <Time>2012-10-21T17:50:50.1484431+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameInterface\Buffs\TripleMines.png</Source>
+      <Name>GameInterface\Buffs\TripleMines</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\GameInterface\Buffs\TripleMines.xnb</Output>
+      <Time>2012-10-21T17:50:50.1554435+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameInterface\Buffs\UltraStealth.png</Source>
+      <Name>GameInterface\Buffs\UltraStealth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\GameInterface\Buffs\UltraStealth.xnb</Output>
+      <Time>2012-10-21T17:50:50.165444+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu's\White.png</Source>
+      <Name>Menu's\White</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Menu's\White.xnb</Output>
+      <Time>2012-10-24T22:40:27.4205121+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu's\WhiteWhipe.png</Source>
+      <Name>Menu's\WhiteWhipe</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Menu's\WhiteWhipe.xnb</Output>
+      <Time>2012-10-24T22:40:02.6630961+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu's\ButtonLeftEnd.png</Source>
+      <Name>Menu's\ButtonLeftEnd</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Menu's\ButtonLeftEnd.xnb</Output>
+      <Time>2012-10-24T20:51:13.5408126+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu's\ButtonMiddle.png</Source>
+      <Name>Menu's\ButtonMiddle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Menu's\ButtonMiddle.xnb</Output>
+      <Time>2012-10-24T22:37:16.0275651+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu's\ButtonRightEnd.png</Source>
+      <Name>Menu's\ButtonRightEnd</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Menu's\ButtonRightEnd.xnb</Output>
+      <Time>2012-10-24T20:53:12.698628+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu's\CheckBoxC.png</Source>
+      <Name>Menu's\CheckBoxC</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Menu's\CheckBoxC.xnb</Output>
+      <Time>2012-10-28T00:36:07.8806975+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu's\CheckBoxU.png</Source>
+      <Name>Menu's\CheckBoxU</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Menu's\CheckBoxU.xnb</Output>
+      <Time>2012-10-28T00:35:43.6973143+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu's\1024by768.png</Source>
+      <Name>Menu's\1024by768</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Menu's\1024by768.xnb</Output>
+      <Time>2012-10-28T01:44:44.9161784+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu's\1152by864.png</Source>
+      <Name>Menu's\1152by864</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Menu's\1152by864.xnb</Output>
+      <Time>2012-10-28T01:45:58.8854092+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu's\1280by720.png</Source>
+      <Name>Menu's\1280by720</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Menu's\1280by720.xnb</Output>
+      <Time>2012-10-28T01:47:23.6832594+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu's\1280by768.png</Source>
+      <Name>Menu's\1280by768</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Menu's\1280by768.xnb</Output>
+      <Time>2012-10-28T01:48:35.2483527+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu's\1280by800.png</Source>
+      <Name>Menu's\1280by800</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Menu's\1280by800.xnb</Output>
+      <Time>2012-10-28T01:49:19.6218907+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu's\1366by768.png</Source>
+      <Name>Menu's\1366by768</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Menu's\1366by768.xnb</Output>
+      <Time>2012-10-28T01:50:31.9190259+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu's\1600by900.png</Source>
+      <Name>Menu's\1600by900</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Menu's\1600by900.xnb</Output>
+      <Time>2012-10-28T01:51:54.8897715+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu's\1920by1080.png</Source>
+      <Name>Menu's\1920by1080</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Menu's\1920by1080.xnb</Output>
+      <Time>2012-10-28T01:52:54.7911977+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu's\640by480.png</Source>
+      <Name>Menu's\640by480</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Menu's\640by480.xnb</Output>
+      <Time>2012-10-28T01:39:47.8181854+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu's\720by480.png</Source>
+      <Name>Menu's\720by480</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Menu's\720by480.xnb</Output>
+      <Time>2012-10-28T01:41:13.3310765+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu's\720by576.png</Source>
+      <Name>Menu's\720by576</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Menu's\720by576.xnb</Output>
+      <Time>2012-10-28T01:42:10.6203532+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu's\800by600.png</Source>
+      <Name>Menu's\800by600</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Menu's\800by600.xnb</Output>
+      <Time>2012-10-28T01:43:22.1814463+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\BashOther.wav</Source>
+      <Name>Audio\BashOther</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Audio\BashOther.xnb</Output>
+      <Time>2013-02-22T16:52:25.3770702+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\BashWall.wav</Source>
+      <Name>Audio\BashWall</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Audio\BashWall.xnb</Output>
+      <Time>2013-02-22T17:06:32.8615436+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Click.wav</Source>
+      <Name>Audio\Click</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Audio\Click.xnb</Output>
+      <Time>2013-02-21T18:03:02.2863355+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Death0.wav</Source>
+      <Name>Audio\Death0</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Audio\Death0.xnb</Output>
+      <Time>2013-02-22T14:03:17.8676659+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Death1.wav</Source>
+      <Name>Audio\Death1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Audio\Death1.xnb</Output>
+      <Time>2013-02-22T14:08:21.5860376+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\LayMines.wav</Source>
+      <Name>Audio\LayMines</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Audio\LayMines.xnb</Output>
+      <Time>2013-02-22T13:20:44.1726029+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\MinesHit0.wav</Source>
+      <Name>Audio\MinesHit0</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Audio\MinesHit0.xnb</Output>
+      <Time>2013-02-22T14:00:58.1816763+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\MinesHit1.wav</Source>
+      <Name>Audio\MinesHit1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Audio\MinesHit1.xnb</Output>
+      <Time>2013-02-22T14:04:29.6817734+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\MinesHit2.wav</Source>
+      <Name>Audio\MinesHit2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Audio\MinesHit2.xnb</Output>
+      <Time>2013-02-22T14:07:41.5137456+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Rifle.wav</Source>
+      <Name>Audio\Rifle</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Audio\Rifle.xnb</Output>
+      <Time>2013-02-24T13:00:06.7152759+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SwishDown.wav</Source>
+      <Name>Audio\SwishDown</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Audio\SwishDown.xnb</Output>
+      <Time>2013-02-21T18:20:23.4358858+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SwishUp.wav</Source>
+      <Name>Audio\SwishUp</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Audio\SwishUp.xnb</Output>
+      <Time>2013-02-21T18:20:01.4036256+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu's\SliderBar.png</Source>
+      <Name>Menu's\SliderBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Menu's\SliderBar.xnb</Output>
+      <Time>2013-02-23T18:52:19.353436+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Engine\0.wav</Source>
+      <Name>Audio\Engine\0</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Audio\Engine\0.xnb</Output>
+      <Time>2013-02-23T21:50:36.700151+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Engine\1.wav</Source>
+      <Name>Audio\Engine\1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Audio\Engine\1.xnb</Output>
+      <Time>2013-02-23T21:51:32.8713638+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Engine\2.wav</Source>
+      <Name>Audio\Engine\2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Audio\Engine\2.xnb</Output>
+      <Time>2013-02-23T21:52:26.3524227+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Engine\3.wav</Source>
+      <Name>Audio\Engine\3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Audio\Engine\3.xnb</Output>
+      <Time>2013-02-23T21:53:08.0448074+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Engine\4.wav</Source>
+      <Name>Audio\Engine\4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Audio\Engine\4.xnb</Output>
+      <Time>2013-02-23T21:54:04.4940361+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Engine\5.wav</Source>
+      <Name>Audio\Engine\5</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Audio\Engine\5.xnb</Output>
+      <Time>2013-02-23T21:54:52.4607796+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Engine\6.wav</Source>
+      <Name>Audio\Engine\6</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Audio\Engine\6.xnb</Output>
+      <Time>2013-02-23T21:55:38.8284317+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Engine\7.wav</Source>
+      <Name>Audio\Engine\7</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Audio\Engine\7.xnb</Output>
+      <Time>2013-02-23T21:56:51.5235896+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Engine\8.wav</Source>
+      <Name>Audio\Engine\8</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Audio\Engine\8.xnb</Output>
+      <Time>2013-02-23T21:57:58.2374055+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Engine\9.wav</Source>
+      <Name>Audio\Engine\9</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Audio\Engine\9.xnb</Output>
+      <Time>2013-02-23T21:59:22.3712176+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Engine\10.wav</Source>
+      <Name>Audio\Engine\10</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Audio\Engine\10.xnb</Output>
+      <Time>2013-02-23T23:09:49.3179852+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\BulletWall.wav</Source>
+      <Name>Audio\BulletWall</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Audio\BulletWall.xnb</Output>
+      <Time>2013-02-24T13:34:04.8189027+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\BulletPlayer.wav</Source>
+      <Name>Audio\BulletPlayer</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Audio\BulletPlayer.xnb</Output>
+      <Time>2013-02-24T14:34:43.6224909+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Missiles.wav</Source>
+      <Name>Audio\Missiles</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Audio\Missiles.xnb</Output>
+      <Time>2013-02-24T15:04:27.2455083+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\StealthIn.wav</Source>
+      <Name>Audio\StealthIn</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Audio\StealthIn.xnb</Output>
+      <Time>2013-02-24T16:34:58.0512999+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\StealthOut.wav</Source>
+      <Name>Audio\StealthOut</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Audio\StealthOut.xnb</Output>
+      <Time>2013-02-24T16:35:23.6877662+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\CollectOrb.wav</Source>
+      <Name>Audio\CollectOrb</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Audio\CollectOrb.xnb</Output>
+      <Time>2013-02-24T16:25:28.5847283+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\GainPowerUp.wav</Source>
+      <Name>Audio\GainPowerUp</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Audio\GainPowerUp.xnb</Output>
+      <Time>2013-02-24T16:26:32.7864004+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\RifleOld.wav</Source>
+      <Name>Audio\RifleOld</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Audio\RifleOld.xnb</Output>
+      <Time>2013-02-22T18:20:52.2636068+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SelectWeapon.wav</Source>
+      <Name>Audio\SelectWeapon</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\Audio\SelectWeapon.xnb</Output>
+      <Time>2013-02-24T16:29:20.9090165+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinalContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinalContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinal\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-07-08T17:52:06.4275871+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

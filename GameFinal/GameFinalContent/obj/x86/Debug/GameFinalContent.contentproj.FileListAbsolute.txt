@@ -1,0 +1,2 @@
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinalContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Project X\GameFinal\GameFinal\GameFinalContent\obj\x86\Debug\ResolveAssemblyReference.cache
